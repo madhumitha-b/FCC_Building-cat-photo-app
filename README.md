@@ -1,6 +1,6 @@
-# Buliding-cat-photo-app
+# Building-cat-photo-app
 
-FreeCodeCamp.com Responsive Web Design Certification Project - "Buliding-cat-photo-app" https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-69
+FreeCodeCamp.com Responsive Web Design Certification Project - "Building-cat-photo-app" https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-69
 # Cat Photo App
 
 This project is part of the FreeCodeCamp Responsive Web Design Certification and is designed to demonstrate knowledge and skills in HTML and Responsive Design.
